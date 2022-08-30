@@ -1,5 +1,5 @@
 # About
-This is build for test task by Michel Kuzmin
+This is build for test task Backpackertrail
 
 # Technologies
 For this task i decide to use [`Vue.js 3`](https://vuejs.org/) because have enough expirience with it and also in real project
