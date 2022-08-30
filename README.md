@@ -1,9 +1,9 @@
 # About
-This is buid for test tusk by Michel Kuzmin
+This is build for test task by Michel Kuzmin
 
 # Technologies
-For this tusk i deside to use [`Vue.js 3`](https://vuejs.org/) becouse have enaugh expirience with it and also in real project
-if some other developer will join he will easy understand whats going on(ofcource if he know vue too) - structure, code convention etc. Also i use [`vite`](https://vitejs.dev/) tool for project building it faster then webpack and have better code optimisation. For styling i used [`windicss`](https://windicss.org/) utility-first CSS framework it give easy way to modify  components ui even if it have very custom design so you can change every things you need
+For this task i decide to use [`Vue.js 3`](https://vuejs.org/) because have enough expirience with it and also in real project
+if some other developer will join he will easy understand whats going on(of course if he know vue too) - structure, code convention etc. Also i use [`vite`](https://vitejs.dev/) tool for project building it faster then webpack and have better code optimisation. For styling i used [`windicss`](https://windicss.org/) utility-first CSS framework it give easy way to modify  components ui even if it have very custom design so you can change every things you need
 For carousel component i used ready made solution [`vue3-carousel](https://ismail9k.github.io/vue3-carousel/)
 
 # How to run
