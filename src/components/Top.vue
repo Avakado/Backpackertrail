@@ -1,5 +1,5 @@
 <template>
-  <div class="h-680px <lg:mb-350px top bg-cover">
+  <div class="h-680px <lg:h-490px  <lg:mb-450px top bg-cover">
     <div class="h-full">
       <Header></Header>
       <div
@@ -30,6 +30,7 @@
               flex
               rounded-4xl
               mt-64px
+              <lg:mt-10px
               justify-center
               text-2xl
               items-center
